@@ -1,0 +1,10 @@
+html,
+body {
+  font-family: 'Press Start 2P', cursive;
+  background-image: url('http://farm4.static.flickr.com/3085/3696756949_e0e201813c_o.jpg');
+}
+
+li {
+  padding: 10px;
+  list-style: none;
+}
